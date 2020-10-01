@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.testrazorpay">
 
-    <!--Sample commet to create a pull request-->
+    <!--Sample commet to create a pull request https://www.youtube.com/watch?v=v9902nonYas-->
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
